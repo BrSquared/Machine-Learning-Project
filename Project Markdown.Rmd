@@ -2,7 +2,7 @@
 title: "MachineLearningProject"
 author: "Brendan Brogan"
 date: "2023-2-20"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
